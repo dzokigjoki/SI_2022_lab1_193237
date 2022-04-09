@@ -1,5 +1,5 @@
-banana
-jabolko
-sliva
-kajsija
-portokal
+banana x 5
+jabolko x 2
+sliva x 4
+kajsija x 2
+portokal x 3
