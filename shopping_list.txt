@@ -2,4 +2,4 @@ banana x 5
 jabolko x 2
 sliva x 4
 kajsija x 2
-portokal x 3
+portokal x 6
