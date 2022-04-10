@@ -1,0 +1,60 @@
+4. git clone https://github.com/dzokigjoki/SI_2022_lab1_193237.git
+
+5.git add . 
+  git commit -m "Add 5 items to the shopping list"
+  git push
+
+6.git add . 
+  git commit -m “Add quantities to the items.”
+  git push
+  //ima opcija i za git add. shoppinglist.txt(da se dodat novi promeni samo na toj fajl)
+
+7.git checkout -b branch1
+  git checkout -b branch1
+
+8.//poradi nerazbiranje kako sto treba na laboratoriskata vezba, ne gi iskopirav logovite na vreme, odnosno logovite odposle pri gasenje na git ne mozam da gi vidam.
+
+10.git checkout branch1
+
+11.git add . 
+  git commit -m "Change quantity of item #5".
+  git push
+
+12. git checkout master
+
+13.git add . 
+  git commit -m "Change quantity of item #2".
+  git push
+
+16.git add . 
+  git commit -m "Modify item #4".
+  git push
+
+17..//poradi nerazbiranje kako sto treba na laboratoriskata vezba, ne gi iskopirav logovite na vreme, odnosno logovite odposle pri gasenje na git ne mozam da gi vidam.
+
+18. git commit --amend	
+
+19..//poradi nerazbiranje kako sto treba na laboratoriskata vezba, ne gi iskopirav logovite na vreme, odnosno logovite odposle pri gasenje na git ne mozam da gi vidam.
+
+20. git merge moze merge i preku konzola i preku github, ovaa komanda e za da gi spoi site granki so master grankata.
+КОМАНДИ:
+клонирано со git clone https://github.com/dzokigjoki/SI_2022_lab1_193237.git
+git add . dodava novi ili promenlivi fajlovi vo local repo
+git commit -m "Some text here" komit na fajl komit so poraka
+git push da gi stavam promenite od localna repozitorija vo remote repo
+git checkout -b branch1 kreiranje na nova granka branch1
+git checkout master promeni go branchot na master
+git checkout -b branch2 kreiranje na nova granka branch2
+git branch proveri na koja ggranka si momentalno
+git pull povleci gi poslednite promeni od remote repository vo local repository
+git pull origin master povleci gi poslednite promeni od remote repository vo local repository od origin master
+git push origin master stavi gi promenite od localna repozitorija vo remote repozitorija vo/od origin master
+git push origin branch1 stavi gi promenite od localna repozitorija vo remote repozitorija vo/od branch1
+git push origin branch2 stavi gi promenite od localna repozitorija vo remote repozitorija vo/od branch2
+git checkout branch1 smeni se vo branch1 granka
+git checkout branch2 smeni se vo branch2 granka
+git commit --amend promeni posleden komit poraka ili dodadi nov tekst vo porakata
+git log da vidis istorija komiti
+
+
+
