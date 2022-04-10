@@ -36,7 +36,9 @@
 
 19..//poradi nerazbiranje kako sto treba na laboratoriskata vezba, ne gi iskopirav logovite na vreme, odnosno logovite odposle pri gasenje na git ne mozam da gi vidam.
 
-20. git merge moze merge i preku konzola i preku github, ovaa komanda e za da gi spoi site granki so master grankata.
+20. so git merge mi se pojavija konflikti, koi sto gi resiv so accept incoming changes, odnosno prifati gi promenite od branch1.Moze i od github, samo sto prvo treba da se napravi update pull request
+
+23. so git merge mi se pojavija konflikti, koi sto gi resiv so accept incoming changes, odnosno prifati gi promenite od branch2.Moze i od github, samo sto prvo treba da se napravi update pull request
 КОМАНДИ:
 клонирано со git clone https://github.com/dzokigjoki/SI_2022_lab1_193237.git
 git add . dodava novi ili promenlivi fajlovi vo local repo
@@ -55,6 +57,7 @@ git checkout branch1 smeni se vo branch1 granka
 git checkout branch2 smeni se vo branch2 granka
 git commit --amend promeni posleden komit poraka ili dodadi nov tekst vo porakata
 git log da vidis istorija komiti
+git merge- mergni ja momentalnata granka so nekoja druga granka
 
 
 
