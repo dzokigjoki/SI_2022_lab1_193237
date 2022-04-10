@@ -1,6 +1,5 @@
 banana x 5
 jabolko x 10
 sliva x 4
-jajce x 2
+kajsija x 2
 portokal x 6
-jagoda x 8
